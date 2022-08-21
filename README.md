@@ -1,10 +1,9 @@
- # # Facial Recognition Implementation
+ # Facial Recognition Implementation
 
 **What does it do?**
 For my final project in CS 445- Computer Photography, I implemented a facial detection method in a published paper called Face detection using template matching and skin-color information by Zhong Jin, Zhen Lou, Jingyu Yang, and Quansen Sun. 
 
-**How does it work**
-
+**How does it work?**
 
 * File Descriptions:
     cifar: compressed files holding the cifar-10 image set, which are used to test the facial detection on non-face images.
